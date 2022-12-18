@@ -6,6 +6,6 @@ Guide: Vinay Sheth
 Group Members: Soudamini Kidambi (202003011)<br>
                Chaitri Gudhka    (202003022)<br>
                Binal Patel       (202003035)<br>
-               Bhavjna Kallakuri (202003046)<br>
+               Bhavajna Kallakuri (202003046)<br>
  </pre>              
 Primary Reference: **PFP: Parallel FP-Growth for Query Recommendation** by **Haoyuan Li**, **Yi Wang**, **Dong Zhang**, **Ming Zhang**, **Edward Chang**
