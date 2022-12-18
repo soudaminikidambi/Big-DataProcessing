@@ -9,9 +9,13 @@ Group Members: Soudamini Kidambi (202003011)<br>
                Bhavajna Kallakuri (202003046)<br>
  </pre>       
  <br>
- <pre>
- Documentation:
  
- </pre>
+ Documentation:<br>
+ - Mount your Google Drive
+ - Create a folder named 'datasets' in it
+ - In folder 'datasets', upload 'Groceries_dataset.csv'
+ - Also create 2 empty csv files : 'GLIST.csv' and 'Transactions.csv'
+ 
+ 
  
 Primary Reference: **PFP: Parallel FP-Growth for Query Recommendation** by **Haoyuan Li**, **Yi Wang**, **Dong Zhang**, **Ming Zhang**, **Edward Chang**
