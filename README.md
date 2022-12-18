@@ -1,6 +1,6 @@
 # Big-DataProcessing:
-IT-494 Big Data Processing Project on **Parallel FP growth for Query Recommendation**.
-Instrctor: Prof. PM Jat
+IT-494 Big Data Processing Project on **Parallel FP growth for Query Recommendation**.<br>
+Instrctor: Prof. PM Jat<br>
 Guide: Vinay Sheth
 <pre>
 Group Members: Soudamini Kidambi (202003011)<br>
